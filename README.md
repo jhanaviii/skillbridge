@@ -8,7 +8,7 @@
 
 ## Demo
 
-[VIDEO_LINK_HERE]
+https://vimeo.com/1175468537?share=copy&fl=sv&fe=ci 
 
 ## Quick Start
 

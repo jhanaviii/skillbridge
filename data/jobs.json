@@ -1,0 +1,298 @@
+[
+  {
+    "id": "job-cloud-junior-01",
+    "title": "Junior Cloud Engineer",
+    "role_category": "Cloud Engineer",
+    "seniority": "junior",
+    "required_skills": [
+      "aws",
+      "linux",
+      "python",
+      "networking fundamentals",
+      "git"
+    ],
+    "nice_to_have": [
+      "docker",
+      "terraform",
+      "ci/cd"
+    ],
+    "description": "Join our infrastructure team to help build and maintain cloud-native services on AWS. You will assist senior engineers with deployment automation, monitor system health dashboards, and troubleshoot basic infrastructure incidents. Ideal for new grads who are eager to learn cloud operations in a fast-paced environment.",
+    "company_type": "startup",
+    "min_years": 0,
+    "max_years": 2
+  },
+  {
+    "id": "job-cloud-junior-02",
+    "title": "Associate Cloud Infrastructure Engineer",
+    "role_category": "Cloud Engineer",
+    "seniority": "junior",
+    "required_skills": [
+      "aws",
+      "linux",
+      "bash scripting",
+      "networking fundamentals",
+      "docker"
+    ],
+    "nice_to_have": [
+      "kubernetes",
+      "python",
+      "monitoring tools"
+    ],
+    "description": "Support our platform reliability team in managing multi-region AWS deployments serving 2M daily active users. You will write automation scripts, participate in on-call rotations, and help migrate legacy workloads to containerized architectures. Strong Linux fundamentals and a willingness to learn infrastructure-as-code are essential.",
+    "company_type": "enterprise",
+    "min_years": 0,
+    "max_years": 2
+  },
+  {
+    "id": "job-cloud-mid-01",
+    "title": "Cloud Platform Engineer",
+    "role_category": "Cloud Engineer",
+    "seniority": "mid",
+    "required_skills": [
+      "aws",
+      "terraform",
+      "kubernetes",
+      "python",
+      "ci/cd",
+      "linux",
+      "networking fundamentals"
+    ],
+    "nice_to_have": [
+      "golang",
+      "service mesh",
+      "cost optimization"
+    ],
+    "description": "Design and operate Kubernetes-based platform infrastructure supporting 40 engineering teams across three business units. You will own Terraform modules for infrastructure provisioning, build internal developer tooling, and drive reliability improvements targeting 99.95% uptime. Requires hands-on experience with production cloud environments.",
+    "company_type": "enterprise",
+    "min_years": 2,
+    "max_years": 5
+  },
+  {
+    "id": "job-cloud-senior-01",
+    "title": "Senior Cloud Architect",
+    "role_category": "Cloud Engineer",
+    "seniority": "senior",
+    "required_skills": [
+      "aws",
+      "terraform",
+      "kubernetes",
+      "python",
+      "ci/cd",
+      "linux",
+      "networking fundamentals",
+      "system design",
+      "cost optimization",
+      "security best practices"
+    ],
+    "nice_to_have": [
+      "multi-cloud",
+      "golang",
+      "team leadership"
+    ],
+    "description": "Lead cloud architecture strategy for a platform processing 500M API calls daily across AWS and GCP. You will define infrastructure standards, mentor a team of five cloud engineers, and drive a zero-trust security initiative across all production environments. This role requires deep expertise in distributed systems and a track record of architecting for scale.",
+    "company_type": "enterprise",
+    "min_years": 5,
+    "max_years": 10
+  },
+  {
+    "id": "job-frontend-junior-01",
+    "title": "Junior Frontend Developer",
+    "role_category": "Frontend Developer",
+    "seniority": "junior",
+    "required_skills": [
+      "javascript",
+      "react",
+      "html",
+      "css",
+      "git",
+      "responsive design"
+    ],
+    "nice_to_have": [
+      "typescript",
+      "unit testing",
+      "figma"
+    ],
+    "description": "Build user-facing features for our SaaS analytics platform used by 10,000 business customers. You will work closely with designers to implement pixel-perfect interfaces, fix frontend bugs from the support queue, and contribute to our shared component library. We value clean code and a strong eye for detail.",
+    "company_type": "mid-size",
+    "min_years": 0,
+    "max_years": 2
+  },
+  {
+    "id": "job-frontend-junior-02",
+    "title": "Frontend Engineer I",
+    "role_category": "Frontend Developer",
+    "seniority": "junior",
+    "required_skills": [
+      "javascript",
+      "react",
+      "html",
+      "css",
+      "rest apis",
+      "git"
+    ],
+    "nice_to_have": [
+      "next.js",
+      "tailwind css",
+      "accessibility"
+    ],
+    "description": "Join a cross-functional product squad building the next generation of our customer onboarding experience. You will develop interactive forms, integrate with backend REST APIs, and collaborate with product managers on feature prioritization. Ideal for developers who love turning designs into polished, functional interfaces.",
+    "company_type": "startup",
+    "min_years": 0,
+    "max_years": 2
+  },
+  {
+    "id": "job-frontend-mid-01",
+    "title": "Frontend Developer",
+    "role_category": "Frontend Developer",
+    "seniority": "mid",
+    "required_skills": [
+      "javascript",
+      "typescript",
+      "react",
+      "html",
+      "css",
+      "unit testing",
+      "rest apis",
+      "git",
+      "performance optimization"
+    ],
+    "nice_to_have": [
+      "next.js",
+      "graphql",
+      "design systems",
+      "ci/cd"
+    ],
+    "description": "Own frontend architecture for a high-traffic fintech dashboard serving institutional traders with sub-second rendering requirements. You will lead performance audits, establish testing standards using Jest and React Testing Library, and mentor junior developers on TypeScript best practices. Experience with complex state management and data-heavy UIs is essential.",
+    "company_type": "mid-size",
+    "min_years": 2,
+    "max_years": 5
+  },
+  {
+    "id": "job-frontend-senior-01",
+    "title": "Senior Frontend Engineer",
+    "role_category": "Frontend Developer",
+    "seniority": "senior",
+    "required_skills": [
+      "javascript",
+      "typescript",
+      "react",
+      "html",
+      "css",
+      "unit testing",
+      "rest apis",
+      "git",
+      "performance optimization",
+      "system design",
+      "accessibility",
+      "ci/cd"
+    ],
+    "nice_to_have": [
+      "micro-frontends",
+      "web components",
+      "team leadership"
+    ],
+    "description": "Define frontend technical strategy for a platform serving 50M monthly users across web and mobile web. You will architect a micro-frontend migration, establish accessibility compliance processes, and lead cross-team initiatives to reduce bundle size by 40%. This role requires deep browser internals knowledge and experience guiding frontend teams at scale.",
+    "company_type": "enterprise",
+    "min_years": 5,
+    "max_years": 10
+  },
+  {
+    "id": "job-security-junior-01",
+    "title": "Junior Security Analyst",
+    "role_category": "Security Analyst",
+    "seniority": "junior",
+    "required_skills": [
+      "networking fundamentals",
+      "linux",
+      "security fundamentals",
+      "log analysis",
+      "python"
+    ],
+    "nice_to_have": [
+      "siem",
+      "wireshark",
+      "incident response"
+    ],
+    "description": "Monitor security alerts, triage incidents, and assist in vulnerability assessments as part of our 24/7 Security Operations Center. You will analyze logs from firewalls and endpoint detection tools, escalate confirmed threats to senior analysts, and help maintain detection rule sets. Strong analytical thinking and foundational networking knowledge are essential.",
+    "company_type": "enterprise",
+    "min_years": 0,
+    "max_years": 2
+  },
+  {
+    "id": "job-security-junior-02",
+    "title": "Associate Cybersecurity Analyst",
+    "role_category": "Security Analyst",
+    "seniority": "junior",
+    "required_skills": [
+      "networking fundamentals",
+      "linux",
+      "security fundamentals",
+      "sql",
+      "risk assessment"
+    ],
+    "nice_to_have": [
+      "python",
+      "compliance frameworks",
+      "vulnerability scanning"
+    ],
+    "description": "Support the security and compliance team in conducting risk assessments, processing vulnerability scan results, and maintaining our security documentation. You will query security event databases, generate compliance reports, and assist with employee security awareness training. This role is ideal for analytical thinkers breaking into cybersecurity.",
+    "company_type": "mid-size",
+    "min_years": 0,
+    "max_years": 2
+  },
+  {
+    "id": "job-security-mid-01",
+    "title": "Security Operations Analyst",
+    "role_category": "Security Analyst",
+    "seniority": "mid",
+    "required_skills": [
+      "networking fundamentals",
+      "linux",
+      "security fundamentals",
+      "siem",
+      "python",
+      "incident response",
+      "log analysis",
+      "vulnerability scanning"
+    ],
+    "nice_to_have": [
+      "threat intelligence",
+      "forensics",
+      "cloud security",
+      "compliance frameworks"
+    ],
+    "description": "Lead incident investigations from detection through remediation in a SOC supporting 15,000 employees across 30 countries. You will build custom SIEM detection rules, automate alert enrichment workflows using Python, and produce post-incident reports for executive leadership. Requires proven experience managing security incidents independently.",
+    "company_type": "enterprise",
+    "min_years": 2,
+    "max_years": 5
+  },
+  {
+    "id": "job-security-senior-01",
+    "title": "Senior Security Engineer",
+    "role_category": "Security Analyst",
+    "seniority": "senior",
+    "required_skills": [
+      "networking fundamentals",
+      "linux",
+      "security fundamentals",
+      "siem",
+      "python",
+      "incident response",
+      "log analysis",
+      "vulnerability scanning",
+      "threat intelligence",
+      "cloud security",
+      "system design"
+    ],
+    "nice_to_have": [
+      "red teaming",
+      "devsecops",
+      "team leadership",
+      "machine learning for security"
+    ],
+    "description": "Architect the threat detection and response strategy for a global financial services platform handling $2B in daily transactions. You will design next-generation detection pipelines using ML-enhanced SIEM, lead purple team exercises, and establish the security engineering roadmap for a team of eight analysts. Deep expertise in adversary tactics and enterprise-scale security architecture is required.",
+    "company_type": "enterprise",
+    "min_years": 5,
+    "max_years": 10
+  }
+]

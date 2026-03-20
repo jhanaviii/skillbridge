@@ -1,0 +1,124 @@
+[
+  {
+    "id": "a1b2c3d4-1111-4000-8000-000000000001",
+    "name": "Priya Venkatesh",
+    "current_skills": [
+      "python",
+      "java",
+      "data structures",
+      "algorithms",
+      "sql",
+      "git",
+      "object-oriented programming",
+      "linear algebra",
+      "statistics"
+    ],
+    "years_experience": 0,
+    "education": "B.Tech Computer Science, Manipal Institute of Technology",
+    "target_role": "Cloud Engineer",
+    "background_summary": "Fresh CS graduate with strong academic foundation including a published paper on distributed caching algorithms. Completed coursework in operating systems, networking, and database design but has limited hands-on experience with cloud platforms or production deployments."
+  },
+  {
+    "id": "a1b2c3d4-2222-4000-8000-000000000002",
+    "name": "Marcus Okafor",
+    "current_skills": [
+      "javascript",
+      "react",
+      "html",
+      "css",
+      "node.js",
+      "rest apis",
+      "git",
+      "tailwind css",
+      "responsive design",
+      "figma"
+    ],
+    "years_experience": 1,
+    "education": "Full-Stack Web Development Certificate, Neoforge Coding Academy",
+    "target_role": "Frontend Developer",
+    "background_summary": "Bootcamp graduate who built six portfolio projects during an intensive 16-week program including a real-time chat application and an e-commerce storefront. Strong in practical frontend frameworks but lacks formal CS foundations in algorithms, testing methodologies, and performance optimization."
+  },
+  {
+    "id": "a1b2c3d4-3333-4000-8000-000000000003",
+    "name": "Sarah Lindqvist",
+    "current_skills": [
+      "google analytics",
+      "sql",
+      "data visualization",
+      "project management",
+      "technical writing",
+      "stakeholder communication",
+      "python",
+      "excel",
+      "a/b testing"
+    ],
+    "years_experience": 4,
+    "education": "B.A. Marketing, University of Wisconsin-Madison",
+    "target_role": "Security Analyst",
+    "background_summary": "Marketing analytics manager transitioning to cybersecurity after leading a company-wide data breach response that sparked a deep interest in threat analysis. Completed the Google Cybersecurity Professional Certificate independently and brings strong analytical and communication skills but lacks hands-on security tooling experience."
+  },
+  {
+    "id": "a1b2c3d4-4444-4000-8000-000000000004",
+    "name": "Ravi Dasgupta",
+    "current_skills": [
+      "python",
+      "docker",
+      "linux",
+      "bash scripting",
+      "react",
+      "mongodb",
+      "web scraping",
+      "git",
+      "rest apis"
+    ],
+    "years_experience": 2,
+    "education": "Self-taught, no formal degree",
+    "target_role": "Cloud Engineer",
+    "background_summary": "Self-taught developer who learned programming through open-source contributions and freelance projects over two years. Has strong Linux and containerization fundamentals from managing personal servers but gaps in networking, infrastructure-as-code, and enterprise cloud platform experience."
+  },
+  {
+    "id": "a1b2c3d4-5555-4000-8000-000000000005",
+    "name": "Diana Kowalski",
+    "current_skills": [
+      "project management",
+      "agile methodology",
+      "jira",
+      "stakeholder communication",
+      "risk assessment",
+      "budgeting",
+      "technical writing",
+      "sql",
+      "process automation"
+    ],
+    "years_experience": 5,
+    "education": "B.S. Business Administration, Arizona State University",
+    "target_role": "Security Analyst",
+    "background_summary": "Experienced IT project manager who led a 12-person team delivering SOC 2 compliance initiatives and wants to move into a hands-on security analyst role. Understands risk frameworks and compliance requirements deeply but needs to build technical skills in threat detection, SIEM platforms, and scripting."
+  },
+  {
+    "id": "a1b2c3d4-6666-4000-8000-000000000006",
+    "name": "Aiden Nakamura",
+    "current_skills": [
+      "javascript",
+      "typescript",
+      "react",
+      "html",
+      "css",
+      "node.js",
+      "python",
+      "aws",
+      "docker",
+      "git",
+      "ci/cd",
+      "unit testing",
+      "rest apis",
+      "sql",
+      "responsive design",
+      "agile methodology"
+    ],
+    "years_experience": 1.5,
+    "education": "B.S. Computer Science, Georgia Institute of Technology",
+    "target_role": "Frontend Developer",
+    "background_summary": "Recent CS graduate with two internships \u2014 one at a fintech startup building React dashboards and one at a mid-size SaaS company working on CI/CD pipeline automation. Well-rounded across frontend, backend, and DevOps with solid fundamentals and practical experience shipping production code."
+  }
+]

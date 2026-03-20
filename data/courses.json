@@ -1,0 +1,182 @@
+[
+  {
+    "id": "course-cloud-001",
+    "skill_covered": "aws",
+    "title": "AWS Cloud Practitioner Essentials",
+    "provider": "AWS",
+    "duration_hours": 20,
+    "is_free": true,
+    "url": "https://explore.skillbuilder.aws/learn/course/cloud-practitioner-essentials",
+    "role_relevance": ["Cloud Engineer"]
+  },
+  {
+    "id": "course-cloud-002",
+    "skill_covered": "terraform",
+    "title": "Infrastructure as Code with Terraform",
+    "provider": "Linux Foundation",
+    "duration_hours": 35,
+    "is_free": false,
+    "url": "https://training.linuxfoundation.org/training/infrastructure-as-code-terraform",
+    "role_relevance": ["Cloud Engineer"]
+  },
+  {
+    "id": "course-cloud-003",
+    "skill_covered": "kubernetes",
+    "title": "Kubernetes for Developers",
+    "provider": "Linux Foundation",
+    "duration_hours": 40,
+    "is_free": false,
+    "url": "https://training.linuxfoundation.org/training/kubernetes-for-developers",
+    "role_relevance": ["Cloud Engineer"]
+  },
+  {
+    "id": "course-cloud-004",
+    "skill_covered": "networking fundamentals",
+    "title": "Computer Networking Full Course",
+    "provider": "freeCodeCamp",
+    "duration_hours": 12,
+    "is_free": true,
+    "url": "https://www.freecodecamp.org/news/computer-networking-full-course",
+    "role_relevance": ["Cloud Engineer", "Security Analyst"]
+  },
+  {
+    "id": "course-cloud-005",
+    "skill_covered": "docker",
+    "title": "Docker Essentials: A Developer Introduction",
+    "provider": "Coursera",
+    "duration_hours": 15,
+    "is_free": true,
+    "url": "https://www.coursera.org/learn/docker-essentials-developer-introduction",
+    "role_relevance": ["Cloud Engineer", "Frontend Developer"]
+  },
+  {
+    "id": "course-cloud-006",
+    "skill_covered": "ci/cd",
+    "title": "Continuous Integration and Delivery Pipelines",
+    "provider": "Coursera",
+    "duration_hours": 18,
+    "is_free": false,
+    "url": "https://www.coursera.org/learn/ci-cd-pipelines-devops",
+    "role_relevance": ["Cloud Engineer", "Frontend Developer"]
+  },
+  {
+    "id": "course-frontend-001",
+    "skill_covered": "typescript",
+    "title": "TypeScript for Professional Developers",
+    "provider": "Udemy",
+    "duration_hours": 25,
+    "is_free": false,
+    "url": "https://www.udemy.com/course/typescript-professional-developers",
+    "role_relevance": ["Frontend Developer"]
+  },
+  {
+    "id": "course-frontend-002",
+    "skill_covered": "react",
+    "title": "React — The Complete Guide",
+    "provider": "Udemy",
+    "duration_hours": 48,
+    "is_free": false,
+    "url": "https://www.udemy.com/course/react-the-complete-guide",
+    "role_relevance": ["Frontend Developer"]
+  },
+  {
+    "id": "course-frontend-003",
+    "skill_covered": "unit testing",
+    "title": "JavaScript Testing with Jest and React Testing Library",
+    "provider": "Udemy",
+    "duration_hours": 14,
+    "is_free": false,
+    "url": "https://www.udemy.com/course/jest-react-testing-library",
+    "role_relevance": ["Frontend Developer"]
+  },
+  {
+    "id": "course-frontend-004",
+    "skill_covered": "performance optimization",
+    "title": "Web Performance Optimization",
+    "provider": "Google",
+    "duration_hours": 10,
+    "is_free": true,
+    "url": "https://web.dev/learn/performance",
+    "role_relevance": ["Frontend Developer"]
+  },
+  {
+    "id": "course-frontend-005",
+    "skill_covered": "accessibility",
+    "title": "Web Accessibility by Google",
+    "provider": "Udemy",
+    "duration_hours": 8,
+    "is_free": true,
+    "url": "https://www.udemy.com/course/web-accessibility-by-google",
+    "role_relevance": ["Frontend Developer"]
+  },
+  {
+    "id": "course-frontend-006",
+    "skill_covered": "responsive design",
+    "title": "Responsive Web Design Certification",
+    "provider": "freeCodeCamp",
+    "duration_hours": 30,
+    "is_free": true,
+    "url": "https://www.freecodecamp.org/learn/responsive-web-design",
+    "role_relevance": ["Frontend Developer"]
+  },
+  {
+    "id": "course-security-001",
+    "skill_covered": "security fundamentals",
+    "title": "Google Cybersecurity Professional Certificate",
+    "provider": "Coursera",
+    "duration_hours": 45,
+    "is_free": false,
+    "url": "https://www.coursera.org/professional-certificates/google-cybersecurity",
+    "role_relevance": ["Security Analyst"]
+  },
+  {
+    "id": "course-security-002",
+    "skill_covered": "siem",
+    "title": "SIEM Concepts and Practical Deployment",
+    "provider": "Udemy",
+    "duration_hours": 22,
+    "is_free": false,
+    "url": "https://www.udemy.com/course/siem-concepts-practical-deployment",
+    "role_relevance": ["Security Analyst"]
+  },
+  {
+    "id": "course-security-003",
+    "skill_covered": "incident response",
+    "title": "Incident Response and Handling",
+    "provider": "Coursera",
+    "duration_hours": 28,
+    "is_free": false,
+    "url": "https://www.coursera.org/learn/incident-response-handling",
+    "role_relevance": ["Security Analyst"]
+  },
+  {
+    "id": "course-security-004",
+    "skill_covered": "log analysis",
+    "title": "Log Management and Analysis for Security",
+    "provider": "Udemy",
+    "duration_hours": 16,
+    "is_free": false,
+    "url": "https://www.udemy.com/course/log-management-analysis-security",
+    "role_relevance": ["Security Analyst"]
+  },
+  {
+    "id": "course-security-005",
+    "skill_covered": "vulnerability scanning",
+    "title": "Vulnerability Assessment and Penetration Testing Basics",
+    "provider": "Coursera",
+    "duration_hours": 20,
+    "is_free": false,
+    "url": "https://www.coursera.org/learn/vulnerability-assessment-penetration-testing",
+    "role_relevance": ["Security Analyst"]
+  },
+  {
+    "id": "course-security-006",
+    "skill_covered": "threat intelligence",
+    "title": "Cyber Threat Intelligence Fundamentals",
+    "provider": "Coursera",
+    "duration_hours": 24,
+    "is_free": false,
+    "url": "https://www.coursera.org/learn/cyber-threat-intelligence",
+    "role_relevance": ["Security Analyst"]
+  }
+]

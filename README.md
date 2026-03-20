@@ -1,8 +1,10 @@
 # SkillBridge Career Navigator- Scenario 2
 
-**Candidate Name:** Jhanavi Agarwal
-**Scenario Chosen:** Skill-Bridge Career Navigator
-**Estimated Time Spent:** 4 hours
+ **Candidate Name:** Jhanavi Agarwal
+ 
+ **Scenario Chosen:** Skill-Bridge Career Navigator
+ 
+ **Estimated Time Spent:** 4 hours
 
 ## Demo
 
